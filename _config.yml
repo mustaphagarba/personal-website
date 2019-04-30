@@ -24,8 +24,8 @@ projects:
   limit: 9
   exclude:
     forks: true
-    projects: "devlanterns-react", "devlanterns-podcast", "meteor-todo", "revoted-project"
-    # - repo-name
+    projects: devlanterns-react
+        # - repo-name
 
 # social_media:
   # behance: your_username
