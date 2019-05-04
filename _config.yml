@@ -24,10 +24,10 @@ projects:
   limit: 9
   exclude:
     forks: true
-    projects: devlanterns-react
+    projects: 
         # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -35,13 +35,13 @@ projects:
   # instagram: your_username
   # keybase: your_username
   # linkedin: your_username
-  # medium: your_username
+  medium: mustaphagarba
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+  twitter: M_M_Garba
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: https://www.mustaphagarba.com
   # youtube: your_username
 
 topics:
